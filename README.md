@@ -140,7 +140,7 @@ All major functionalities are covered by unit tests using Jest. The following te
 - `src/test/deleteTodo.test.ts` — Delete todo
 - `src/test/postTodo.test.ts` — Add todo
 - `src/test/handleNotFound.test.ts` — Undefined route
-  Each test file covers both positive and negative scenarios, including:
+- Each test file covers both positive and negative scenarios, including:
 
 - Valid and invalid input
 - Authorization and authentication checks
